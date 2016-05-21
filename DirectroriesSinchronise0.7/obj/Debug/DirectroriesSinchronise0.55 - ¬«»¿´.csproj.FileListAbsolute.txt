@@ -1,0 +1,3 @@
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\bin\Debug\DirectroriesSinchronise0.6.exe.config
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\obj\Debug\DirectroriesSinchronise0.6.exe
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\obj\Debug\DirectroriesSinchronise0.6.pdb

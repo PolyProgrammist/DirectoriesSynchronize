@@ -1,0 +1,9 @@
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\bin\Debug\DirectroriesSinchronise0.6.exe.config
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\bin\Debug\DirectroriesSinchronise0.6.exe
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\bin\Debug\DirectroriesSinchronise0.6.pdb
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\obj\Debug\DirectroriesSinchronise0.6.csprojResolveAssemblyReference.cache
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\obj\Debug\DirectroriesSinchronise0._6.Properties.Resources.resources
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\obj\Debug\DirectroriesSinchronise0.6.csproj.GenerateResource.Cache
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\obj\Debug\DirectroriesSinchronise0.6.exe
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\obj\Debug\DirectroriesSinchronise0.6.pdb
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.6\obj\Debug\DirectroriesSinchronise0._6.Disks.resources

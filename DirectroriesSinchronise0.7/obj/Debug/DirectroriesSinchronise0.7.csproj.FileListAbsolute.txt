@@ -1,0 +1,30 @@
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\bin\Debug\DirectroriesSinchronise0.6.exe.config
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.6.exe
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.6.pdb
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\bin\Debug\DirectroriesSinchronise0.6.exe
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\bin\Debug\DirectroriesSinchronise0.6.pdb
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.7.csprojResolveAssemblyReference.cache
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0._6.Disks.resources
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0._6.Properties.Resources.resources
+C:\Users\Vadim\Desktop\Home\Progs\C++\VSprojects\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.7.csproj.GenerateResource.Cache
+C:\Users\Vadim\Desktop\Home\Progs\C++\My Programms\DirectoriesSynchronise\DirectroriesSinchronise0.7\bin\Debug\DirectroriesSinchronise0.6.exe.config
+C:\Users\Vadim\Desktop\Home\Progs\C++\My Programms\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.6.exe
+C:\Users\Vadim\Desktop\Home\Progs\C++\My Programms\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.6.pdb
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\bin\Debug\DirectroriesSinchronise0.6.exe.config
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.6.exe
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.6.pdb
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\bin\Debug\DirectroriesSinchronise0.6.exe
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\bin\Debug\DirectroriesSinchronise0.6.pdb
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.7.csprojResolveAssemblyReference.cache
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0._6.Disks.resources
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0._6.Properties.Resources.resources
+C:\Users\evolodin\Desktop\DirectoriesSynchronise\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.7.csproj.GenerateResource.Cache
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0._6.Disks.resources
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0._6.Properties.Resources.resources
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.7.csproj.GenerateResource.Cache
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\bin\Debug\Sync.exe.config
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\bin\Debug\Sync.exe
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\bin\Debug\Sync.pdb
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\obj\Debug\Sync.exe
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\obj\Debug\Sync.pdb
+F:\soft\Volodin\Sync\DirectroriesSinchronise0.7\obj\Debug\DirectroriesSinchronise0.7.csprojResolveAssemblyReference.cache
